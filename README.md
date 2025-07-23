@@ -3,9 +3,7 @@
 ![STM32F411](https://img.shields.io/badge/STM32F411-Nucleo-blue) 
 ![UART](https://img.shields.io/badge/USART1-Interrupt_Mode-green)
 
-![E2373D16-A586-45BC-8760-1E8F08579235](https://github.com/user-attachments/assets/abeb1f22-5a56-456d-9289-cf9a7d410ce4)
-
-
+<img src="https://github.com/user-attachments/assets/abeb1f22-5a56-456d-9289-cf9a7d410ce4" alt="E2373D16-A586-45BC-8760-1E8F08579235"> 
 
 UART communication using interrupts on STM32F411 Nucleo.
 
